@@ -36,5 +36,5 @@ I build data-driven and AI-powered solutions focused on solving real-world probl
 
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/adejare-adelugba](https://linkedin.com/in/yourlink)
-- **Portfolio:** [portfolio.com](](https://my-work-website.pages.dev/))
+- **Portfolio:** [[https://my-work-website.pages.dev/](](https://my-work-website.pages.dev/))
 - **Location:** Abuja, Nigeria 🇳🇬
