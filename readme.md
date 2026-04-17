@@ -23,7 +23,6 @@ I build intelligent systems that bridge the gap between complex data and actiona
 ---
 
 ### 🌟 Featured Projects
-* **[OpenJarvis](https://github.com/yourlink)**: A local-first personal AI agent designed for privacy and speed using RAG and Ollama.
 * **Multimodal Breast Cancer Predictor**: A hybrid diagnostic system integrating MedCLIP and ResNet50 for clinical analysis.
 * **National Polling Unit Scraper**: A high-concurrency Selenium pipeline that extracted electoral data across all 36 Nigerian states.
 * **Clinical Symptom Checker**: A FastAPI-based diagnostic engine powered by ClinicalBERT.
