@@ -7,7 +7,7 @@ Abuja, Nigeria · Open to remote & onsite roles
 
 ---
 
-## About
+##  About
 
 I build end-to-end ML systems — data pipelines, model training, and deployment.
 Focused on **multimodal learning**, **healthcare AI**, and **real-world data problems**.
