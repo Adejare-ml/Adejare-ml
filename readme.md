@@ -60,5 +60,8 @@ Reduced manual work by **85%**
 * Open to **Junior ML Engineer / Data Scientist roles**
 
 ---
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 B.Sc. Computer Science · Landmark University
