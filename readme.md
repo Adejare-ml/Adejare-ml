@@ -45,13 +45,13 @@ Reduced manual work by **85%**
 ## Stack
 
 **ML:** PyTorch, TensorFlow, scikit-learn, XGBoost
---
+-
 **Data:** Pandas, NumPy, SQL
---
+-
 **Deployment:** FastAPI, Docker, MLflow
---
+-
 **Tools:** Git, Jupyter, Streamlit
-
+-
 ---
 
 ## Currently
