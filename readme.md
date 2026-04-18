@@ -1,34 +1,56 @@
-# Hi, I'm Adejare Adelugba👋
+# Adelugba Adejare
 
-### Data & Machine Learning Developer 🚀  
-I build data-driven and AI-powered solutions focused on solving real-world problems.
+**ML Engineer** · Building applied AI systems for healthcare and real-world problem solving.
 
----
-
-### 🎯 Current Focus
-- Building practical machine learning projects  
-- Improving model performance and usability  
-- Working with real-world datasets and pipelines  
+Based in Abuja, Nigeria · Open to remote & onsite roles globally
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-f7931e.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## What I Work On
+
+I design and build end-to-end machine learning systems — from data pipelines and model training to deployment and user-facing interfaces. My focus is on **multimodal learning**, **healthcare AI**, and **applied NLP**.
 
 ---
 
-### 🌟 Projects
-- AI and data analysis projects (see repositories)  
-- Currently building more real-world solutions  
+## Featured Projects
 
+### Multimodal Breast Cancer Detection
+Combined imaging data with clinical tabular features using a CNN + gradient boosting fusion architecture.
+Achieved **87.1% ROC-AUC**, outperforming single-modality baselines.
+`Python` `TensorFlow/Keras` `scikit-learn` `Pandas` · [[Repo]](https://github.com/Adejare-Workshop/Breast_cancer_detention_using_muilt_modal_analysis)
 
+---
 
-### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/adejare-adelugba](https://linkedin.com/in/yourlink)
-- **Portfolio:** [(https://my-work-website.pages.dev/)](https://my-work-website.pages.dev/)
-- **Location:** Abuja, Nigeria 🇳🇬
+### Healthcare AI Assistant
+An AI-powered assistant designed to support healthcare workflows.
+Built with a focus on accurate, context-aware responses for medical queries.
+`Python` `LLM APIs` `JavaScript` · [[Repo]](https://github.com/Adejare-Workshop/Healthcare_ai_assistant)
+
+---
+
+### Jare AI Assistant
+A lightweight, browser-based AI assistant interface.
+Integrates LLM APIs with a clean conversational UI — built as a practical tool, not just a demo.
+`JavaScript` · [[Repo]](https://github.com/Adejare-Workshop/jare_ai_assistant)
+
+---
+
+## Stack
+
+**ML / DL** — Python · TensorFlow · Keras · PyTorch · scikit-learn · XGBoost  
+**Data** — Pandas · NumPy · Plotly · Dash  
+**Deployment** — Docker · Streamlit · Cloudflare Pages  
+**Other** — Git · REST APIs · Jupyter · VS Code
+
+---
+
+## Currently
+
+- Deepening work in LLM fine-tuning and multimodal architectures
+- Open to **Junior ML Engineer** and **Data Scientist** roles — remote or onsite
+
+---
+
+## Connect
+
+[Portfolio](https://my-work-website.pages.dev) · [LinkedIn](https://linkedin.com/in/danieljare) · [Email](mailto:adelugbaadejare@gmail.com)
