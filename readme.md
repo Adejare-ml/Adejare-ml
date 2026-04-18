@@ -1,56 +1,61 @@
 # Adelugba Adejare
 
-**ML Engineer** · Building applied AI systems for healthcare and real-world problem solving.
-
-Based in Abuja, Nigeria · Open to remote & onsite roles globally
-
----
-
-## What I Work On
-
-I design and build end-to-end machine learning systems — from data pipelines and model training to deployment and user-facing interfaces. My focus is on **multimodal learning**, **healthcare AI**, and **applied NLP**.
+**Machine Learning Engineer**
+Abuja, Nigeria · Open to remote & onsite roles
+📧 [adelugbaadejare03@gmail.com](mailto:adelugbaadejare03@gmail.com)
+[Portfolio](https://my-work-website.pages.dev) · [LinkedIn](https://linkedin.com/in/danieljare)
 
 ---
 
-## Featured Projects
+## About
 
-### Multimodal Breast Cancer Detection
-Combined imaging data with clinical tabular features using a CNN + gradient boosting fusion architecture.
-Achieved **87.1% ROC-AUC**, outperforming single-modality baselines.
-`Python` `TensorFlow/Keras` `scikit-learn` `Pandas` · [[Repo]](https://github.com/Adejare-Workshop/Breast_cancer_detention_using_muilt_modal_analysis)
+I build end-to-end ML systems — data pipelines, model training, and deployment.
+Focused on **multimodal learning**, **healthcare AI**, and **real-world data problems**.
 
 ---
 
-### Healthcare AI Assistant
-An AI-powered assistant designed to support healthcare workflows.
-Built with a focus on accurate, context-aware responses for medical queries.
-`Python` `LLM APIs` `JavaScript` · [[Repo]](https://github.com/Adejare-Workshop/Healthcare_ai_assistant)
+## Projects
+
+**Multimodal Breast Cancer Detection**
+ResNet50 + TabNet ensemble · **0.91 AUC** · FastAPI + Docker
+[Repo](https://github.com/Adejare-Workshop/Breast_cancer_detention_using_muilt_modal_analysis)
+
+**Fraud Detection System**
+Recall-focused model on imbalanced data · custom behavioral features
+[Repo](https://github.com/Adejare-Workshop)
+
+**Tech Salary Predictor**
+Regression model + Plotly dashboard for compensation insights
+[Repo](https://github.com/Adejare-Workshop)
+
+**Healthcare AI Assistant**
+LLM-powered assistant for medical queries
+[Repo](https://github.com/Adejare-Workshop/Healthcare_ai_assistant)
 
 ---
 
-### Jare AI Assistant
-A lightweight, browser-based AI assistant interface.
-Integrates LLM APIs with a clean conversational UI — built as a practical tool, not just a demo.
-`JavaScript` · [[Repo]](https://github.com/Adejare-Workshop/jare_ai_assistant)
+## Experience
+
+**Data Engineering Intern — Kontemporary Consulting Ltd**
+Built nationwide scraping pipeline (36 states, 500k+ records)
+Reduced manual work by **85%**
 
 ---
 
 ## Stack
 
-**ML / DL** — Python · TensorFlow · Keras · PyTorch · scikit-learn · XGBoost  
-**Data** — Pandas · NumPy · Plotly · Dash  
-**Deployment** — Docker · Streamlit · Cloudflare Pages  
-**Other** — Git · REST APIs · Jupyter · VS Code
+**ML:** PyTorch, TensorFlow, scikit-learn, XGBoost
+**Data:** Pandas, NumPy, SQL
+**Deployment:** FastAPI, Docker, MLflow
+**Tools:** Git, Jupyter, Streamlit
 
 ---
 
 ## Currently
 
-- Deepening work in LLM fine-tuning and multimodal architectures
-- Open to **Junior ML Engineer** and **Data Scientist** roles — remote or onsite
+* Exploring LLM fine-tuning & multimodal systems
+* Open to **Junior ML Engineer / Data Scientist roles**
 
 ---
 
-## Connect
-
-[Portfolio](https://my-work-website.pages.dev) · [LinkedIn](https://linkedin.com/in/danieljare) · [Email](mailto:adelugbaadejare@gmail.com)
+B.Sc. Computer Science · Landmark University
