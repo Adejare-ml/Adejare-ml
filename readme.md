@@ -30,7 +30,7 @@ Regression model + Plotly dashboard for compensation insights
 
 **Healthcare AI Assistant**
 LLM-powered assistant for medical queries
-[Repo](https://github.com/Adejare-Workshop/Healthcare_ai_assistant)
+[Repo]([https://github.com/Adejare-Workshop/Healthcare_ai_assistant](https://github.com/Ayo288888/healthcare-chatbot))
 
 ---
 
