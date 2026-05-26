@@ -33,20 +33,27 @@ I architect end-to-end ML systems that bridge the gap between raw data and clini
 
 ## 🌟 Featured Engineering Work
 
-### 🩺 [Multimodal Breast Cancer Detection](https://github.com/Adejare-ml/Breast_cancer_detention_webpage)
+### 🩺 [Multimodal Breast Cancer Detection](https://github.com/Adejare-ml/med-cancer-multimodal-diagnostics)
 **Architecture**: Late-fusion ensemble of MedCLIP (ResNet50) for imaging and TabNet for clinical data.
 **Impact**: Achieved **0.91 AUC**, providing a professional hosted platform for real-time clinical inferences via FastAPI.
 
-### ⌚ [Human Activity Recognition (HAR-70)](https://github.com/Adejare-ml/Real-Time-Human-Activity-Recognition-Using-Time-Series-Transformers-Wearable-Sensors-HAR-70-Dataset)
+### ⌚ [Human Activity Recognition (HAR-70)](https://github.com/Adejare-ml/med-har-transformer-analysis)
 **Architecture**: Time-Series Transformers applied to wearable sensor data.
 **Focus**: Solving temporal dependencies in sensor data for high-accuracy human activity classification.
 
-### 🧠 [Brain Tumor Classification & Explainability](https://github.com/Adejare-ml/Brain-Tumor-Classification)
+### 🧠 [Brain Tumor Classification & Explainability](https://github.com/Adejare-ml/med-brain-tumor-classification)
 **Architecture**: Benchmarking Vision Transformers (ViT) vs DINOv2.
 **Innovation**: Integrated **Grad-CAM** to visualize model decision-making, critical for medical validation.
 
 ### 🌐 [SENTRY - Security Awareness](https://github.com/Adejare-ml/SENTRY)
 **Focus**: A comprehensive Social Engineering Awareness Training platform, demonstrating full-stack development and security education.
+
+---
+
+## 🎨 Web Development & Client Work
+I build high-performance, aesthetically minimal web interfaces for corporate and personal brands.
+- **[Kontemporary Consulting Ltd](https://github.com/Adejare-ml/kontemporary-website)**: A high-authority corporate redesign focusing on "Quiet Authority" aesthetics.
+- **Client Portfolio**: Specialized in developing hosted platforms for professional services and medical diagnostic portals.
 
 ---
 
