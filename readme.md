@@ -1,67 +1,64 @@
-# Adelugba Adejare
+# Adelugba Adejare 💻
+**AI Engineer | Specializing in Multimodal Healthcare Systems & Large-Scale Data Pipelines**
+*Transforming raw clinical data into actionable diagnostic intelligence.*
 
-**Machine Learning Engineer**
-Abuja, Nigeria · Open to remote & onsite roles
-📧 [adelugbaadejare03@gmail.com](mailto:adelugbaadejare03@gmail.com)
-[Portfolio](https://my-work-website.pages.dev) · [LinkedIn](https://linkedin.com/in/danieljare)
-
----
-
-##  About
-
-I build end-to-end ML systems — data pipelines, model training, and deployment.
-Focused on **multimodal learning**, **healthcare AI**, and **real-world data problems**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljare)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-work-website.pages.dev)
+[![Email](https://img.shields.io/badge/Email-C14413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelugbaadejare03@gmail.com)
 
 ---
 
-## Projects
+## 🚀 Engineering Focus
+I architect end-to-end ML systems that bridge the gap between raw data and clinical utility. My expertise lies at the intersection of **Medical Imaging**, **Multimodal Learning**, and **Scalable Data Engineering**.
 
-**Multimodal Breast Cancer Detection**
-ResNet50 + TabNet ensemble · **0.91 AUC** · FastAPI + Docker
-[Repo](https://github.com/Adejare-Workshop/Breast_cancer_detention_using_muilt_modal_analysis)
-
-**Fraud Detection System**
-Recall-focused model on imbalanced data · custom behavioral features
-[Repo](https://github.com/Adejare-Workshop)
-
-**Global Tech Salary Predictor**
-Regression model + Plotly dashboard for compensation insights
-[Repo](https://github.com/Adejare-Workshop)
-
-**Healthcare AI Assistant**
-LLM-powered assistant for medical queries and  images  in  collaboration with  (https://github.com/Ayo288888)
-[Repo](https://github.com/Ayo288888/healthcare-chatbot)
+### 🏗️ Core Technical Pillars
+- **🏥 Medical AI & Diagnostics**: Specialized in multimodal fusion (Late-Fusion architectures), Vision Transformers (ViT), and Explainable AI (XAI) using Grad-CAM to ensure clinical transparency.
+- **⚙️ Data Infrastructure**: Experienced in building high-throughput scraping pipelines (500k+ records), time-series processing for wearable sensors, and ETL optimization.
+- **🌐 AI Productization**: Deploying production-ready models using FastAPI, Docker, and Hugging Face Spaces, ensuring seamless integration between ML backends and user-facing interfaces.
 
 ---
 
-## Experience
+## 🛠️ Technical Stack
 
-**Data Engineering Intern — Kontemporary Consulting Ltd**
-Built nationwide scraping pipeline (36 states, 500k+ records)
-Reduced manual work by **85%**
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Deep Learning** | `PyTorch` `TensorFlow` `Hugging Face` `Keras` `Vision Transformers` |
+| **Machine Learning** | `Scikit-Learn` `XGBoost` `Pandas` `NumPy` `Imbalanced-Learn` |
+| **Medical AI** | `MedCLIP` `Grad-CAM` `DICOM` `Multimodal Fusion` `TabNet` |
+| **Data & Backend** | `FastAPI` `SQL` `BeautifulSoup` `Selenium` `Docker` `MLflow` |
+| **Visualization** | `Plotly` `Seaborn` `Matplotlib` `Grad-CAM` |
+| **DevOps/Tools** | `Git` `Linux` `VS Code` `Anaconda` `GitHub Actions` |
+
+---
+
+## 🌟 Featured Engineering Work
+
+### 🩺 [Multimodal Breast Cancer Detection](https://github.com/Adejare-ml/Breast_cancer_detention_webpage)
+**Architecture**: Late-fusion ensemble of MedCLIP (ResNet50) for imaging and TabNet for clinical data.
+**Impact**: Achieved **0.91 AUC**, providing a professional hosted platform for real-time clinical inferences via FastAPI.
+
+### ⌚ [Human Activity Recognition (HAR-70)](https://github.com/Adejare-ml/Real-Time-Human-Activity-Recognition-Using-Time-Series-Transformers-Wearable-Sensors-HAR-70-Dataset)
+**Architecture**: Time-Series Transformers applied to wearable sensor data.
+**Focus**: Solving temporal dependencies in sensor data for high-accuracy human activity classification.
+
+### 🧠 [Brain Tumor Classification & Explainability](https://github.com/Adejare-ml/Brain-Tumor-Classification)
+**Architecture**: Benchmarking Vision Transformers (ViT) vs DINOv2.
+**Innovation**: Integrated **Grad-CAM** to visualize model decision-making, critical for medical validation.
+
+### 🌐 [SENTRY - Security Awareness](https://github.com/Adejare-ml/SENTRY)
+**Focus**: A comprehensive Social Engineering Awareness Training platform, demonstrating full-stack development and security education.
 
 ---
 
-## Stack
+## 📈 Professional Journey
+- **B.Sc. Computer Science** | Landmark University
+- **Data Engineering Intern** | Kontemporary Consulting Ltd
+  - Engineered a nationwide scraping pipeline covering 36 states and 500k+ records, reducing manual data collection effort by **85%**.
 
-**ML:** PyTorch, TensorFlow, scikit-learn, 
--
-**Data:** Pandas, NumPy, SQL, Seaborn, Matplotlib ,Ploty
--
-**Deployment:** FastAPI, Docker, MLflow , Hugging Face Spaces
--
-**Tools:** Git, Jupyter, Visual Studio Code , Anacorda Navigator 
--
----
-
-## Currently
-
-* Exploring LLM fine-tuning & multimodal systems
-* Open to **Junior ML Engineer / Data Scientist roles**
+## 🎯 Currently Exploring
+- 🔍 **LLM Fine-tuning**: Optimizing domain-specific models for medical literature.
+- 🧬 **Multimodal RAG**: Combining vision and text for advanced clinical decision support.
+- ⚡ **Rust for ML**: Exploring high-performance data processing.
 
 ---
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-
-B.Sc. Computer Science · Landmark University
+*Open to Junior ML Engineer / Data Scientist roles. Let's build the future of intelligent healthcare.*
