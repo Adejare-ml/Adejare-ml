@@ -3,7 +3,7 @@
 *Transforming raw clinical data into actionable diagnostic intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljare)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-work-website.pages.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adelugba-adejare.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-C14413?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelugbaadejare03@gmail.com)
 
 ---
