@@ -1,5 +1,5 @@
 # Adelugba Adejare 👋
-**AI Engineer | Specializing in Multimodal Healthcare Systems & Large-Scale Data Pipelines**
+**AI & Data Engineer | Specializing in Multimodal Healthcare Systems & Large-Scale Data Pipelines**
 *Transforming raw clinical data into actionable diagnostic intelligence.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieljare)
