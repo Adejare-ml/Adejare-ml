@@ -3,7 +3,7 @@
 ### 🚀 Data Science & ML Engineer | Multimodal AI & AI Agents Specialist
 
 [![Website](https://img.shields.io/badge/Portfolio-adelugba--adejare.pages.dev-0052CC?style=for-the-badge&logo=cloudflare&logoColor=white)](https://adelugba-adejare.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adelugba_Adejare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adelugba_Adejare-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieljare)
 [![Email](https://img.shields.io/badge/Email-adelugbaadejare34%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adelugbaadejare34@gmail.com)
 
 ---
